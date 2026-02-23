@@ -38,3 +38,5 @@ input{
     background: aliceblue;
     padding: 8px 20px;
     transition: 0.4s ease;
+    cursor: pointer;
+}
