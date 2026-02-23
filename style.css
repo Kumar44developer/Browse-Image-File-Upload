@@ -50,3 +50,5 @@ input{
     height: 99%;
     object-fit: cover;
     position: absolute;
+    top: 2px;
+    left: 2px;
