@@ -13,3 +13,6 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.wrapper{
+    max-width: 700px;
