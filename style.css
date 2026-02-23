@@ -48,3 +48,5 @@ input{
 .img img{
     width: 99%;
     height: 99%;
+    object-fit: cover;
+    position: absolute;
