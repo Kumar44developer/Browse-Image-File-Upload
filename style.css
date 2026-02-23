@@ -8,3 +8,5 @@
 body{
     min-height: 100vh;
     background-color: deepskyblue;
+    display: flex;
+    flex-direction: column;
