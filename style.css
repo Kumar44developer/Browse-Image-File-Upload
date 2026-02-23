@@ -29,3 +29,7 @@ body{
     margin-bottom: 25px;
     color: aliceblue;
 }
+
+input{
+    display: none;
+}
