@@ -75,3 +75,5 @@ input{
 }
 
 .wrapper .icon p.close.exit{
+    display: block;
+}
