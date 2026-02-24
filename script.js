@@ -11,3 +11,4 @@ function uploadFile(event){
     close.classList.add("exit");
 
     if(event.target.files && event.target.files[0]){
+        image.src = URL.createObjectURL(event.target.files[0]);
