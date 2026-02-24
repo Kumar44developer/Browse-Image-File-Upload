@@ -14,3 +14,4 @@ function uploadFile(event){
         image.src = URL.createObjectURL(event.target.files[0]);
 
             close.addEventListener("click",()=>{
+            image.classList.toggle("active");
