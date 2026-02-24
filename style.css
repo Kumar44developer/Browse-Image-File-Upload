@@ -54,3 +54,7 @@ input{
     left: 2px;
     display: none;
 }
+
+.icon p.close{
+    font-size: 20px;
+    color: aliceblue;
