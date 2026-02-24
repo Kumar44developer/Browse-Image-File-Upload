@@ -69,3 +69,5 @@ input{
 .wrapper .icon p.close:hover{
     color: crimson;
 }
+
+.img img.active{
