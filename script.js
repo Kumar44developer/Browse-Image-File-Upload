@@ -8,3 +8,4 @@ upload.addEventListener("change",(event)=>{
 
 function uploadFile(event){
     image.classList.add("active");
+    close.classList.add("exit");
