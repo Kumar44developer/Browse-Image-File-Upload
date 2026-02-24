@@ -5,3 +5,5 @@ const close = document.querySelector(".icon .close");
 upload.addEventListener("change",(event)=>{
     uploadFile(event);
 });
+
+function uploadFile(event){
