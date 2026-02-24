@@ -58,3 +58,5 @@ input{
 .icon p.close{
     font-size: 20px;
     color: aliceblue;
+    position: absolute;
+    right: 20px;
