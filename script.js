@@ -12,3 +12,5 @@ function uploadFile(event){
 
     if(event.target.files && event.target.files[0]){
         image.src = URL.createObjectURL(event.target.files[0]);
+
+            close.addEventListener("click",()=>{
