@@ -65,3 +65,7 @@ input{
     display: none;
     cursor: pointer;
 }
+
+.wrapper .icon p.close:hover{
+    color: crimson;
+}
