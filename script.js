@@ -15,3 +15,7 @@ function uploadFile(event){
 
             close.addEventListener("click",()=>{
             image.classList.toggle("active");
+            close.classList.toggle("exit");
+        });
+    }
+}
