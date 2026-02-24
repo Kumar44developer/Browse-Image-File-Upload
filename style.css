@@ -73,3 +73,5 @@ input{
 .img img.active{
     display: block;
 }
+
+.wrapper .icon p.close.exit{
